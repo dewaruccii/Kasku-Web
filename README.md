@@ -53,6 +53,7 @@ Kasku adalah aplikasi untuk **mengelola arus kas** dan **mengaitkannya langsung 
 -   Role: **Admin**
 -   Email: **admin@gmail.com**
 -   Password: **12345678**
+-   Website: https://21-rpl.my.id
 
 ## 🙌 Kredit
 
